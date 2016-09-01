@@ -6,10 +6,11 @@ p {
 
 nav {
   font-family: helvetica;
-  text-align: center; inline;
+  text-align: center;
   background-color: gray;
   color: white;
   width: 100%;
+  padding: 48px;
   
 }
 
