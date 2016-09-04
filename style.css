@@ -2,6 +2,7 @@
   background-color: #88B3CA;
   font-family: helvetica;
   text-align: center;
+  padding: 30px;
 }
 
 
@@ -17,6 +18,7 @@ h3 {
 #contact{
   padding-bottom: 25px;
   text-align: center;
+  font-family: helvetica;
   
 }
 
