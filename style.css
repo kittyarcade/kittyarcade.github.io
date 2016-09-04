@@ -5,6 +5,12 @@
   padding: 30px;
 }
 
+h1 {
+  letter-spacing: 3px;
+  word-spacing: 10px;
+  font-size: 68px;
+}
+
 
 li {
   font-family: helvetica, sans-serif;
