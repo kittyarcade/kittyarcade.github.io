@@ -79,3 +79,7 @@ h3 {
   font-family: helvetica;
   line-height: 1;
 }
+
+.content-date {
+  line-height: .9;
+}
