@@ -85,7 +85,7 @@ h3 {
 #content-education {
   margin-top: 25px;
   margin-bottom: 30px;
-  padding: 15px;
+  margin-left: 15px;
   font-family: helvetica;
   line-height: 1;
 }
@@ -93,4 +93,6 @@ h3 {
 .content-date {
   line-height: .6;
   font-family: helvetica;
+  margin-left: 15px;
+  
 }
