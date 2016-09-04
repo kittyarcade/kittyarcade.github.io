@@ -15,7 +15,7 @@ h1 {
 li {
   font-family: helvetica, sans-serif;
   font-size: 15px;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 
 h3 {
@@ -43,7 +43,7 @@ h3 {
 
 #container-work {
   padding: 20px;
-  margin-top: 15px;
+  margin-top: 10px;
   margin-right: 25px;
   margin-left: 25px;
   font-family: helvetica; sans-serif;
