@@ -4,6 +4,7 @@
   text-align: center;
 }
 
+
 li {
   font-family: helvetica, sans-serif;
   font-size: 18px;
@@ -13,8 +14,9 @@ h3 {
   font-size: 30px;
 }
 
-#container-contact{
+#contact{
   padding-bottom: 25px;
+  text-align: center;
   
 }
 
