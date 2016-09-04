@@ -21,6 +21,10 @@ h3 {
   font-size: 30px;
 }
 
+.date {
+  line-height: .6;
+}
+
 #contact{
   padding-bottom: 25px;
   text-align: center;
