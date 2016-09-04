@@ -19,6 +19,7 @@ h3 {
 
 #container-technical {
   padding: 15px;
+  font-family: helvetica;
   
 }
 
@@ -61,4 +62,5 @@ h3 {
 .content-education {
   margin-top: 25px;
   margin-bottom: 30px;
+  font-family: helvetica;
 }
