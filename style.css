@@ -5,6 +5,10 @@
   padding: 30px;
 }
 
+.image {
+ float: left; 
+}
+
 
 h1 {
   letter-spacing: 3px;
