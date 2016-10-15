@@ -39,12 +39,21 @@ h3 {
   font-family: helvetica;
   margin-bottom: 150px;
   margin-left: 100px;
-  background-color: #DDDDDE;
-  
 }
 
 .fa-ul {
-  background-color: #DDDDDE; 
+  background-color: #DDDDDE;
+  width: 760px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  border-top: 1px solid #ccc;
+}
+
+.fa-ul:li {
+ line-height: 1.5em;
+  border-bottom: 1px solid #ccc;
+  float: left;
+  display: inline;
 }
 
 #container-work {
