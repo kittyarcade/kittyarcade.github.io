@@ -41,13 +41,13 @@ h3 {
   margin-left: 100px;
 }
 
-#columns {
- -moz-column-count: 2;
-    -moz-column-gap: 20px;
-    -webkit-column-count: 2;
-    -webkit-column-gap: 20px;
-    column-count: 2;
-    column-gap: 20px; 
+ul.list {
+  width: 300px;
+}
+
+ul.list li {
+  display: inline-block;
+  width: 100px:
 }
 
 #container-work {
