@@ -41,18 +41,13 @@ h3 {
   margin-left: 100px;
 }
 
-.fa-ul {
-  width: 760px;
-  margin-bottom: 20px;
-  overflow: hidden;
-  border-top: 1px solid #ccc;
-}
-
-.fa-ul:li {
- line-height: 1.5em;
-  border-bottom: 1px solid #ccc;
-  float: left;
-  display: inline;
+#columns {
+ -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px; 
 }
 
 #container-work {
