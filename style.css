@@ -40,8 +40,11 @@ h3 {
   margin-bottom: 150px;
   margin-left: 100px;
   background-color: #DDDDDE;
-  background-position: center;
   
+}
+
+.fa-ul {
+  background-color: #DDDDDE; 
 }
 
 #container-work {
