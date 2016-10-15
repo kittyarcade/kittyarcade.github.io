@@ -41,11 +41,11 @@ h3 {
   margin-left: 100px;
 }
 
-.list {
+ul.list {
   width: 300px;
 }
 
-.list li {
+ul.list li {
   display: inline-block;
   width: 100px:
 }
