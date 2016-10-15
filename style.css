@@ -9,6 +9,11 @@
  float: top left;
 }
 
+img {
+  width: 200px;
+  height: 200px;
+}
+
 
 h1 {
   letter-spacing: 3px;
