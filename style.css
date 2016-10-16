@@ -3,11 +3,7 @@
   font-family: helvetica;
   text-align: center;
   padding: 30px;
-}
-
-img {
-  width: 200px;
-  height: 200px;
+  box-shadow: 1px 2px 2px #000
 }
 
 
