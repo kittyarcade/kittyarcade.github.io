@@ -22,8 +22,7 @@ aside {
 }
 
 img {
-  display: block;
-  margin: auto;
+  float: center;
 }
 
 h1 {
