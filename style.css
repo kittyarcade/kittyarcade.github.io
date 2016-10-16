@@ -11,7 +11,11 @@ aside {
  float: left;
  background-color: #DDDDDE; 
  margin: 25px;
+ padding: 20px;
  overflow: hidden;
+ border-style: solid;
+ border-color: #DDDDDE;
+ border-radius: 3%;
 }
 
 
