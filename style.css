@@ -6,6 +6,11 @@ header {
   text-align: center;
 }
 
+aside {
+ float: left;
+ background-color: #DDDDDE; 
+}
+
 
 h1 {
   letter-spacing: 3px;
