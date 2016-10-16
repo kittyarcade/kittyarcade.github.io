@@ -23,6 +23,8 @@ aside {
 
 img {
   float: center;
+  border: 2px solid #000;
+  border-radius: 3%;
 }
 
 h1 {
