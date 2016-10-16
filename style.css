@@ -11,6 +11,7 @@ aside {
  float: left;
  background-color: #DDDDDE; 
  margin: 25px;
+ overflow: hidden;
 }
 
 
