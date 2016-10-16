@@ -10,7 +10,7 @@ header {
 aside {
  float: left;
  background-color: #DDDDDE; 
- margin: 20px;
+ margin: 15px;
  padding: 15px;
  overflow: hidden;
  border-style: solid;
@@ -55,7 +55,7 @@ h3 {
   background-color: #DDDDDE;
   box-shadow: 1px 2px 2px #000;
   width: 800px;
-  float: right;
+  float: top right;
   
 }
 
