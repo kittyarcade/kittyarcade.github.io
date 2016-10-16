@@ -23,6 +23,7 @@ aside {
 
 img {
   border-radius: 3%;
+  display: inline-block;
 }
 
 h1 {
